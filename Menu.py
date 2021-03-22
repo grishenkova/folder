@@ -22,6 +22,6 @@ class Menu:
                         "copyfile":"copies the file to another folder",
                         "movefile":"moves the file to another folder",
                         "renamefile": "changes the name of the file",
-                        ""
+
 
                         }
